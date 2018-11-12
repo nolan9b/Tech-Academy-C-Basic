@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Sharp Maths Drill", "C Sharp Maths Drill\C Sharp Maths Drill.csproj", "{BDEB805A-9D35-4D6E-A69E-C1EABAF8FF6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEB805A-9D35-4D6E-A69E-C1EABAF8FF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEB805A-9D35-4D6E-A69E-C1EABAF8FF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEB805A-9D35-4D6E-A69E-C1EABAF8FF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEB805A-9D35-4D6E-A69E-C1EABAF8FF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC14AF99-D5ED-485F-88F2-2A6D9F5EB72A}
+	EndGlobalSection
+EndGlobal
